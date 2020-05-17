@@ -1,0 +1,1 @@
+{"jobID":"1b628792-710a-14a6-98f5-e0c47f4389b3","spec":{"type":"policy","cause":{"Message":"","User":"Jürgen Stauvermann \u003cjuergen@stauvermann.de\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag.podinfo":"glob:3.2.*"},"remove":{}}}},"result":null}
